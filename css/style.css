@@ -1,0 +1,13 @@
+.d-none {
+    display: none;
+}
+  
+.dropdown-item {
+    cursor: pointer;
+}
+
+.red {
+    background-color: red;
+}
+
+
